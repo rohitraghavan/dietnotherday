@@ -101,6 +101,10 @@ p {
   font-family: Futura;
 }
 
+.green-texty {
+  color: #35a9e3;
+}
+
 .blue-texty {
   color: #35a9e3;
 }
@@ -183,7 +187,7 @@ p {
 }
 
 .section.scrollspy {
-    min-height: 92vh;
+    min-height: 60vh;
 }
 
 
